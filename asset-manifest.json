@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://segunzoe.github.io/csb-6ld9um/static/js/main.b96baa1f.chunk.js",
+    "main.js.map": "https://segunzoe.github.io/csb-6ld9um/static/js/main.b96baa1f.chunk.js.map",
+    "runtime-main.js": "https://segunzoe.github.io/csb-6ld9um/static/js/runtime-main.6190d39f.js",
+    "runtime-main.js.map": "https://segunzoe.github.io/csb-6ld9um/static/js/runtime-main.6190d39f.js.map",
+    "static/js/2.5580c59e.chunk.js": "https://segunzoe.github.io/csb-6ld9um/static/js/2.5580c59e.chunk.js",
+    "static/js/2.5580c59e.chunk.js.map": "https://segunzoe.github.io/csb-6ld9um/static/js/2.5580c59e.chunk.js.map",
+    "index.html": "https://segunzoe.github.io/csb-6ld9um/index.html",
+    "static/js/2.5580c59e.chunk.js.LICENSE.txt": "https://segunzoe.github.io/csb-6ld9um/static/js/2.5580c59e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6190d39f.js",
+    "static/js/2.5580c59e.chunk.js",
+    "static/js/main.b96baa1f.chunk.js"
+  ]
+}
